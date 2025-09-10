@@ -1,4 +1,4 @@
-# JavaScript Study Log: 코어 자바스크립트 Part 1 (Chapter 1.1 ~ 5.5)
+# JavaScript Study Log: 코어 자바스크립트
 
 ## 2025.09.08
 
